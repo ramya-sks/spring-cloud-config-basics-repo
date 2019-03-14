@@ -1,1 +1,2 @@
-message: "Hello Spring Cloud Config three!"
+greeter:
+  message: "Hello Spring Cloud Config three!"
